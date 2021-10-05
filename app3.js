@@ -41,7 +41,7 @@ const menu = [
   },
    {
     id: 6,
-    title: "html",
+    title: "HTML",
     category: "Software",
     price: "***",
     img: "./images/item-6.jpeg",
