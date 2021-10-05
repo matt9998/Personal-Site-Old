@@ -37,8 +37,8 @@ Variables
   --clr-grey-8: hsl(210, 31%, 80%);
   --clr-grey-9: hsl(212, 33%, 89%);
   --clr-grey-10: hsl(210, 36%, 96%);
-  --clr-gold: #c59d5f;
   --clr-white: #fff;
+  --clr-gold: #c59d5f;
   --clr-red-dark: hsl(360, 67%, 44%);
   --clr-red-light: hsl(360, 71%, 66%);
   --clr-green-dark: hsl(125, 67%, 44%);
@@ -70,6 +70,13 @@ Global Styles
 body {
   font-family: var(--ff-secondary);
   background: var(--clr-black);
+  color: var(--clr-black);
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+body2 {
+  font-family: var(--ff-secondary);
+  background: var(--clr-black);
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
@@ -80,16 +87,19 @@ ul {
 a {
   text-decoration: none;
 }
-img:not(.logo) {
-  width: 100%;
-}
+
 img {
   display: block;
-  border: 0.25rem solid var(--clr-gold);
+  
   border-radius: var(--radius);
   height: 550px;
 }
-
+img2 {
+  display: block;
+  
+  border-radius: var(--radius);
+  height: 550px;
+}
 h1,
 h2,
 h3,
