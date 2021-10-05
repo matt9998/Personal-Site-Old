@@ -38,7 +38,7 @@ const reviews = [
     img:
       "./mike.jpg",
     text:
-      "Goals: Design 3D CAD model and assembly for functional Mars terraforming vehicle, including structure, mobility system, engine, and components for assembly. Challenges: Ensuring individually produced parts are consistent with desired dimensions for final assembly, creative solutions for 150+ interlocking parts. Results: Conceptualized, designed, assembled, and rendered final terraforiming vehicle prototype consisting of parts made by each team member.",
+      "Goals: Design 3D CAD model and assembly for functional Mars terraforming vehicle, including structure, mobility system, engine, and components for assembly. Challenges: Ensuring individually produced parts are consistent with desired dimensions for final assembly, creative solutions required for 150+ interlocking parts. Results: Conceptualized, designed, assembled, and rendered final terraforiming vehicle prototype consisting of parts made by each team member.",
   },
   {
     id: 5,
