@@ -28,7 +28,7 @@ const reviews = [
     img:
       "./dave.jpg",
     text:
-      "Goals: Create interactive program where user can input details of hypersonic vehicle and quickly obtain downstream conditions, aerodynamic forces, and heating. Challenges: Hypersonic downstream shock conditions required iterative programming solution. Heating values heavily dependent on vehicle geometry. Results: Program rapidly provides downstream conditions and vehicle heat flux within 4 percent of exact equilibrium code solution.",
+      "Goals: Create interactive program where user can input details of hypersonic vehicle and quickly obtain downstream conditions, aerodynamic forces, and heating. Challenges: Hypersonic downstream shock conditions required iterative programming solution. Heating values heavily dependent on varying vehicle geometry. Results: Program rapidly provides downstream conditions and vehicle heat flux within 4 percent of exact equilibrium code solution.",
   },
   {
     id: 4,
@@ -38,7 +38,7 @@ const reviews = [
     img:
       "./mike.jpg",
     text:
-      "Goals: Design 3D CAD model and assembly for functional Mars terraforming vehicle, including structure, mobility system, engine, and components for assembly. Challenges: Ensuring individually produced parts are consistent with desired dimensions for final assembly, creative solutions for over 150 interlocking parts. Results: Conceptualized, designed, assembled, and rendered final terraforiming vehicle prototype consisting of parts made by each team member.",
+      "Goals: Design 3D CAD model and assembly for functional Mars terraforming vehicle, including structure, mobility system, engine, and components for assembly. Challenges: Ensuring individually produced parts are consistent with desired dimensions for final assembly, creative solutions for 150+ interlocking parts. Results: Conceptualized, designed, assembled, and rendered final terraforiming vehicle prototype consisting of parts made by each team member.",
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const reviews = [
     img:	
       "./eric.jpg",
     text:
-      "Goals: Given desired apogee height for launch, select model rocket configuration and motor to perform given task, using OpenRocket simulation to verify performance. Challenges: Modification of initial rocket kit required use of 3D printing custom parts to store payload and motor, simulation of custom modifications and parts. Results: Rocket launch test achieved apogee of 98 feet, producing only a 2% error from performance requirement and simulation expectations.",
+      "Goals: Given desired apogee height for launch, select model rocket configuration and motor to perform given task, using simulation to verify performance. Challenges: Modification of initial rocket kit required use of 3D printing custom parts to store payload and motor, simulation of custom modifications and parts. Results: Rocket launch test achieved apogee of 98 feet, producing only a 2% error from performance requirement and simulation expectations.",
   },
   {
     id: 6,
