@@ -246,7 +246,7 @@ const menu = [
     category: "Music",
     price: "*****",
     img: "./images/item-27.jpeg",
-    desc: `I dabble in drums occassionally`,
+    desc: `I dabble in drumset occassionally`,
   },
       {
     id: 18,
