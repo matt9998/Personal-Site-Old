@@ -70,6 +70,16 @@ const reviews = [
     text:
       "Goals: Verify feasibility of large-scale wind farm in region of interest, design turbine and compare performance results with economic and environmental goals. Challenges: Turbine blade and tower design required multiple iteration before performance results could demonstrate the economic feasibility of the proposed farm. Results: Final farm could produce energy at a cost of roughly 8 cents per kilowatt-hour, able to outcompete natural gas and coal energy providers in the region.",
   },
+  {
+    id: 8,
+    name: "NTSB/FAA Case Study Presentation (Aug-Oct 2021)",
+    job: "Systems Safety | Accident Causation | Research Based",
+	hyper: "./Wind.pdf",
+    img:	
+      "./farm.jpg",
+    text:
+      "Goals: Identify the FAA's role in the treatment of safety-critical systems in commercial aviation using case studies on 4 NTSB transport aircraft accident reports. Challenges: Uncovering underlying themes regarding regulatory and certification issues based on unrelated accidents that each presented a unique mode of failure Results: Discovered multiple common process improvements for the regulatory and certification of transport aircraft.",
+  },
 ];
 // select items
 const img = document.getElementById('person-img');
